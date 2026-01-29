@@ -1268,6 +1268,10 @@
         "dye_hex": {
           "@value": "Dye Hex Color",
           "desc": "Shows the hex code of the dye on armors."
+        },
+        "remove_enchant_description": {
+          "@value": "Remove Enchant Descriptions",
+          "desc": "Removes enchantment descriptions from the tooltip."
         }
       },
       "foraging": {

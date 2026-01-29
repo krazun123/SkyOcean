@@ -39,4 +39,8 @@ object LoreModifierConfig : CategoryKt("lore_modifiers") {
     var dyeHex by boolean(false) {
         this.translation = "skyocean.config.lore_modifiers.dye_hex"
     }
+
+    var removeEnchantDescription by boolean(false) {
+        this.translation = "skyocean.config.lore_modifiers.remove_enchant_description"
+    }
 }
